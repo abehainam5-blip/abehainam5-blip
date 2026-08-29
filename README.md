@@ -1,157 +1,301 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Abeha%20Inam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Software%20Developer&descSize=20&descAlignY=61&animation=fadeIn&color=gradient" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=A970FF&center=true&vCenter=true&width=750&lines=Building+modern+web+experiences;Exploring+Artificial+Intelligence;React.js+%7C+Python+%7C+Supabase;Learning+%26+Building+every+day" alt="Typing SVG"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=python,javascript,react,vite,html,css,supabase,mysql,mongodb,git,github,vscode,postman&perline=7" />
+<a href="https://github.com/abehainam5-blip">
+  <img src="./dark.svg" alt="Abeha Inam GitHub Profile Banner" width="100%"/>
+</a>
 
 </div>
 
-<br/>
-
-## About Me
-
-I'm **Abeha Inam**, an **AI & Software Developer** focused on building modern digital experiences and exploring the possibilities of Artificial Intelligence.
-
-I enjoy turning ideas into real projects, creating clean user interfaces, learning new technologies, and continuously improving my development skills.
-
-Currently, I'm growing my skills across **Python, React.js, databases, APIs, and AI-powered development**.
-
----
-
-## Technologies
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
-
-</td>
-
-<td align="center" width="50%">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,vite" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=supabase,mysql,mongodb" />
-
-</td>
-
-<td align="center" width="50%">
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</td>
-</tr>
-</table>
+### ✨ AI & Software Developer | Building • Learning • Creating
 
 </div>
 
----
-
-## Featured Project
-
-### Personal Portfolio
-
-My personal developer portfolio — a place to showcase my work, skills, projects, and journey as I grow in software development and AI.
-
-**Built with**
-
-<img src="https://skillicons.dev/icons?i=react,vite,javascript,html,css" />
-
-<br/>
-
-[View Repository](https://github.com/abehainam5-blip/personal-portfolio)
-
----
-
-## Currently Learning
-
-**Python** · **Database Fundamentals** · **MySQL** · **MongoDB** · **Supabase** · **React.js** · **REST APIs** · **Express.js** · **Postman** · **AI Development**
-
----
-
 <div align="center">
-
-## GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=abehainam5-blip&show_icons=true&hide_border=true&bg_color=00000000&title_color=A970FF&icon_color=A970FF&text_color=888888&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abehainam5-blip&hide_border=true&background=00000000&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=888888&dates=888888" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abehainam5-blip&bg_color=00000000&color=A970FF&line=A970FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## Contribution Snake
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-## Connect With Me
-
-<a href="https://www.linkedin.com/in/abeha-inam/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="42" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/abeha_inam/">
-<img src="https://skillicons.dev/icons?i=instagram" width="42" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/Abeha488151">
-<img src="https://skillicons.dev/icons?i=twitter" width="42" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/AbehaInam">
-<img src="https://skillicons.dev/icons?i=facebook" width="42" />
-</a>
-
-<br/><br/>
 
 <a href="https://github.com/abehainam5-blip">
-<img src="https://img.shields.io/badge/GitHub-abehainam5--blip-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Abeha%20Inam-0A101F?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/abeha-inam/">
+<img src="https://img.shields.io/badge/LinkedIn-Abeha%20Inam-0A101F?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/abeha_inam/">
+<img src="https://img.shields.io/badge/Instagram-Abeha%20Inam-0A101F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-### Building today. Learning every day. 🚀
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abeha+Inam+%F0%9F%91%8B;AI+%26+Software+Developer;Building+Modern+Software+Experiences;Learning+AI%2C+React.js%2C+Python+%26+Databases;Turning+Ideas+Into+Projects+%F0%9F%92%9C" alt="Typing SVG" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=gradient" width="100%"/>
+</div>
+
+---
+
+## 👩🏻‍💻 About Me
+
+Hi, I'm **Abeha Inam**, an **AI & Software Developer** passionate about technology, software development, and building modern digital experiences.
+
+I enjoy learning how different technologies work together — from frontend development and databases to AI-powered applications and modern development tools.
+
+I'm currently exploring and building with:
+
+* 🤖 AI & AI-powered applications
+* ⚛️ React.js
+* 🐍 Python
+* 🌐 JavaScript
+* 🎨 HTML & CSS
+* 🗄️ MySQL & MongoDB
+* ⚡ Supabase
+* 🔧 Git & GitHub
+* 💻 Modern IDEs and developer tools
+
+I believe the best way to learn development is to **build real projects, experiment with new technologies, and keep improving every day.**
+
+---
+
+## 🚀 Currently Working On
+
+* 🤖 AI-powered software projects
+* ⚛️ React.js applications
+* 🐍 Python development
+* 🗄️ Database-driven applications
+* ⚡ Supabase projects
+* 🌐 Modern web experiences
+* 🔧 Improving my GitHub and development workflow
+* 💡 Exploring new ways to combine AI with software development
+
+---
+
+<details>
+<summary>📚 Now Learning</summary>
+
+<br>
+
+I'm continuously expanding my development skills.
+
+* GitHub & Git
+* Database fundamentals
+* MySQL
+* MongoDB
+* Supabase
+* Python
+* Python libraries
+* HTML
+* CSS
+* JavaScript
+* React.js
+* REST APIs
+* Express.js
+* Postman
+* VS Code
+* OpenCode
+* Replit
+* Windsurf
+* AI development workflows
+
+</details>
+
+---
+
+## 🛠️ Languages & Tools
+
+### 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/HTML5-0A101F?style=for-the-badge&logo=html5&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/CSS3-0A101F?style=for-the-badge&logo=css3&logoColor=A78BFA"/>
+</p>
+
+### ⚛️ Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React.js-0A101F?style=for-the-badge&logo=react&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Vite-0A101F?style=for-the-badge&logo=vite&logoColor=A78BFA"/>
+</p>
+
+### 🔧 Backend & APIs
+
+<p>
+<img src="https://img.shields.io/badge/Express.js-0A101F?style=for-the-badge&logo=express&logoColor=CBD5E1"/>
+<img src="https://img.shields.io/badge/REST%20API-0A101F?style=for-the-badge&logo=fastapi&logoColor=22D3EE"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-0A101F?style=for-the-badge&logo=mysql&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/MongoDB-0A101F?style=for-the-badge&logo=mongodb&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/Supabase-0A101F?style=for-the-badge&logo=supabase&logoColor=10B981"/>
+</p>
+
+### 🤖 AI & Development
+
+<p>
+<img src="https://img.shields.io/badge/AI-0A101F?style=for-the-badge&logo=openai&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/AI%20Development-0A101F?style=for-the-badge&logo=googlecloud&logoColor=22D3EE"/>
+</p>
+
+### 🧰 Tools & IDEs
+
+<p>
+<img src="https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=F97316"/>
+<img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=CBD5E1"/>
+<img src="https://img.shields.io/badge/VS%20Code-0A101F?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/OpenCode-0A101F?style=for-the-badge&logo=code&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Replit-0A101F?style=for-the-badge&logo=replit&logoColor=F97316"/>
+<img src="https://img.shields.io/badge/Windsurf-0A101F?style=for-the-badge&logo=codeium&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Postman-0A101F?style=for-the-badge&logo=postman&logoColor=F97316"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-VERCEL-INSTANCE.vercel.app/api?username=abehainam5-blip&show_icons=true&theme=transparent&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=CBD5E1&border_color=1E293B">
+  <img src="https://YOUR-VERCEL-INSTANCE.vercel.app/api?username=abehainam5-blip&show_icons=true&theme=transparent" alt="Abeha Inam GitHub Stats">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-VERCEL-INSTANCE.vercel.app/api/top-langs/?username=abehainam5-blip&layout=compact&theme=transparent&bg_color=0A101F&title_color=22D3EE&text_color=CBD5E1&border_color=1E293B">
+  <img src="https://YOUR-VERCEL-INSTANCE.vercel.app/api/top-langs/?username=abehainam5-blip&layout=compact&theme=transparent" alt="Top Languages">
+</picture>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=abehainam5-blip&theme=transparent&background=0A101F&border=1E293B&stroke=1E293B&ring=A78BFA&fire=22D3EE&currStreakLabel=CBD5E1&sideLabels=CBD5E1&currStreakNum=22D3EE&sideNums=10B981" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abehainam5-blip&bg_color=0A101F&color=CBD5E1&line=A78BFA&point=22D3EE&area=true&hide_border=true" alt="Abeha Inam Activity Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+### 💻 Personal Portfolio
+
+My personal portfolio project where I showcase my development work, skills, projects and learning journey.
+
+**Repository:**
+https://github.com/abehainam5-blip/personal-portfolio
+
+<p>
+<img src="https://img.shields.io/badge/React.js-0A101F?style=flat-square&logo=react&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/JavaScript-0A101F?style=flat-square&logo=javascript&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Web-0A101F?style=flat-square&logo=googlechrome&logoColor=10B981"/>
+</p>
+
+---
+
+## 💡 More Projects
+
+More projects will be added here as I continue building and learning.
+
+I'm especially interested in projects involving:
+
+**AI + Software Development + Modern Web Technologies + Databases**
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abehainam5-blip/abehainam5-blip/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abehainam5-blip/abehainam5-blip/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/abehainam5-blip/abehainam5-blip/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</picture>
+
+</div>
+
+---
+
+## 🌱 More About Me
+
+* 💻 I enjoy building software projects and experimenting with new technologies.
+* 🤖 I'm interested in AI and how it can be used to create useful applications.
+* 🐍 Python is one of the technologies I'm actively developing my skills in.
+* ⚛️ I'm exploring React.js for modern frontend development.
+* 🗄️ I'm learning how different databases work and how applications interact with them.
+* 🔧 I enjoy exploring modern IDEs and AI-assisted development workflows.
+* 📚 I believe consistent learning and practical projects are the best way to improve.
+* 🚀 My goal is to keep turning what I learn into real projects.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/abehainam5-blip">
+<img src="https://img.shields.io/badge/GitHub-abehainam5--blip-0A101F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abeha-inam/">
+<img src="https://img.shields.io/badge/LinkedIn-Abeha%20Inam-0A101F?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://www.instagram.com/abeha_inam/">
+<img src="https://img.shields.io/badge/Instagram-abeha__inam-0A101F?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+<a href="https://www.facebook.com/AbehaInam">
+<img src="https://img.shields.io/badge/Facebook-Abeha%20Inam-0A101F?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
+</a>
+
+<a href="https://x.com/Abeha488151">
+<img src="https://img.shields.io/badge/X-Abeha488151-0A101F?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=abehainam5-blip&label=Profile%20Views&color=A78BFA&style=for-the-badge" alt="Profile Views"/>
+
+<br><br>
+
+### ✨ Keep Learning. Keep Building. Keep Creating. ✨
 
 </div>

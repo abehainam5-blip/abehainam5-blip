@@ -1,5 +1,12 @@
 <div align="center">
 
+<img src="./assets/abeha-ai-banner.gif" width="100%" alt="Abeha Inam - AI & Software Developer">
+
+</div>
+
+<br>
+<div align="center">
+
 # 👋 Hi, I'm Abeha Inam
 
 ## 🤖 AI & Software Developer

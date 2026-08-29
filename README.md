@@ -166,17 +166,11 @@ I'm continuously expanding my development skills.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-VERCEL-INSTANCE.vercel.app/api?username=abehainam5-blip&show_icons=true&theme=transparent&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=CBD5E1&border_color=1E293B">
-  <img src="https://YOUR-VERCEL-INSTANCE.vercel.app/api?username=abehainam5-blip&show_icons=true&theme=transparent" alt="Abeha Inam GitHub Stats">
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=abehainam5-blip&show_icons=true&theme=transparent&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=CBD5E1&border_color=1E293B" alt="Abeha Inam GitHub Stats"/>
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-VERCEL-INSTANCE.vercel.app/api/top-langs/?username=abehainam5-blip&layout=compact&theme=transparent&bg_color=0A101F&title_color=22D3EE&text_color=CBD5E1&border_color=1E293B">
-  <img src="https://YOUR-VERCEL-INSTANCE.vercel.app/api/top-langs/?username=abehainam5-blip&layout=compact&theme=transparent" alt="Top Languages">
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abehainam5-blip&layout=compact&theme=transparent&bg_color=0A101F&title_color=22D3EE&text_color=CBD5E1&border_color=1E293B" alt="Top Languages"/>
 
 </div>
 
@@ -210,7 +204,9 @@ My personal portfolio project where I showcase my development work, skills, proj
 
 **Repository:**
 
+<a href="https://github.com/abehainam5-blip/personal-portfolio">
 https://github.com/abehainam5-blip/personal-portfolio
+</a>
 
 <p>
 <img src="https://img.shields.io/badge/React.js-0A101F?style=flat-square&logo=react&logoColor=22D3EE"/>

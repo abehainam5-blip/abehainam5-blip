@@ -102,6 +102,8 @@ I'm continuously expanding my development skills.
 * OpenCode
 * Replit
 * Windsurf
+* Antigravity
+* Cursor AI
 * AI development workflows
 
 </details>
@@ -157,6 +159,8 @@ I'm continuously expanding my development skills.
 <img src="https://img.shields.io/badge/OpenCode-0A101F?style=for-the-badge&logo=code&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/Replit-0A101F?style=for-the-badge&logo=replit&logoColor=F97316"/>
 <img src="https://img.shields.io/badge/Windsurf-0A101F?style=for-the-badge&logo=codeium&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Antigravity-0A101F?style=for-the-badge&logo=google&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Cursor%20AI-0A101F?style=for-the-badge&logo=cursor&logoColor=22D3EE"/>
 <img src="https://img.shields.io/badge/Postman-0A101F?style=for-the-badge&logo=postman&logoColor=F97316"/>
 </p>
 
@@ -226,11 +230,13 @@ I'm especially interested in projects involving:
 
 ---
 
-## 💬 Random Dev Quote
+## 💬 A Note From Me
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote"/>
+> **"I don't wait for ideas to become possible — I learn, build, and turn them into something real."**
+>
+> — **Abeha Inam**
 
 </div>
 
@@ -317,23 +323,23 @@ Building AI-powered Apps
 <div align="center">
 
 <a href="https://github.com/abehainam5-blip">
-<img src="https://img.shields.io/badge/GitHub-abehainam5--blip-0A101F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/abeha-inam/">
-<img src="https://img.shields.io/badge/LinkedIn-Abeha%20Inam-0A101F?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/abeha_inam/">
-<img src="https://img.shields.io/badge/Instagram-abeha__inam-0A101F?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/AbehaInam">
-<img src="https://img.shields.io/badge/Facebook-Abeha%20Inam-0A101F?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
+<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="https://x.com/Abeha488151">
-<img src="https://img.shields.io/badge/X-Abeha488151-0A101F?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </div>

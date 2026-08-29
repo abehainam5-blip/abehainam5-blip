@@ -1,199 +1,157 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:3B176F,100:A970FF&text=ABEHA%20INAM&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=AI%20%26%20Software%20Developer&descAlignY=61&descSize=20&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Abeha%20Inam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Software%20Developer&descSize=20&descAlignY=61&animation=fadeIn&color=gradient" width="100%"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=A970FF&center=true&vCenter=true&width=850&height=80&lines=AI+%26+Software+Developer;React.js+%7C+Python+%7C+Supabase;Building+Modern+Web+Experiences;Exploring+Artificial+Intelligence;Learn+%E2%80%A2+Build+%E2%80%A2+Create+%E2%80%A2+Innovate+%F0%9F%9A%80" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=A970FF&center=true&vCenter=true&width=750&lines=Building+modern+web+experiences;Exploring+Artificial+Intelligence;React.js+%7C+Python+%7C+Supabase;Learning+%26+Building+every+day" alt="Typing SVG"/>
 
-<br><br>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,react,vite,html,css,supabase,mysql,mongodb,git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,react,vite,html,css,supabase,mysql,mongodb,git,github,vscode,postman&perline=7" />
 
 </div>
 
----
+<br/>
 
-# 👋 Hi, I'm Abeha Inam
+## About Me
 
-### 🤖 AI & Software Developer
+I'm **Abeha Inam**, an **AI & Software Developer** focused on building modern digital experiences and exploring the possibilities of Artificial Intelligence.
 
-I'm passionate about **Artificial Intelligence, software development, and modern web technologies**.
+I enjoy turning ideas into real projects, creating clean user interfaces, learning new technologies, and continuously improving my development skills.
 
-I enjoy turning ideas into real digital experiences and continuously learning new technologies to become a stronger developer.
-
-- 🤖 Exploring Artificial Intelligence
-- 💻 Building modern web applications
-- ⚛️ Working with React.js
-- 🐍 Learning and practicing Python
-- 🗄️ Exploring databases and Supabase
-- 🎨 Creating modern and interactive user interfaces
-- 🚀 Turning ideas into real-world projects
-- 📚 Continuously learning and improving
+Currently, I'm growing my skills across **Python, React.js, databases, APIs, and AI-powered development**.
 
 ---
 
-# 🛠️ Languages & Technologies
+## Technologies
 
 <div align="center">
 
-### 💻 Programming Languages
+<table>
+<tr>
+<td align="center" width="50%">
+
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 
-<br><br>
+</td>
 
-### ⚛️ Frontend Development
+<td align="center" width="50%">
+
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,vite" />
 
-<br><br>
+</td>
+</tr>
 
-### 🗄️ Database & Backend
+<tr>
+<td align="center" width="50%">
+
+### Database
 
 <img src="https://skillicons.dev/icons?i=supabase,mysql,mongodb" />
 
-<br><br>
+</td>
 
-### 🔧 Development Tools
+<td align="center" width="50%">
+
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## Featured Project
 
-## 🌐 Personal Portfolio
+### Personal Portfolio
 
-My personal developer portfolio where I showcase my **skills, projects, learning journey, and developer identity**.
+My personal developer portfolio — a place to showcase my work, skills, projects, and journey as I grow in software development and AI.
 
-### 🛠️ Built With
+**Built with**
 
 <img src="https://skillicons.dev/icons?i=react,vite,javascript,html,css" />
 
-### ✨ Highlights
+<br/>
 
-- 🎨 Modern user interface
-- 📱 Responsive design
-- ⚡ Fast and lightweight
-- 💻 Project showcase
-- 🌐 Modern web technologies
-- 🚀 Personal developer branding
+[View Repository](https://github.com/abehainam5-blip/personal-portfolio)
 
-### 🔗 Repository
+---
+
+## Currently Learning
+
+**Python** · **Database Fundamentals** · **MySQL** · **MongoDB** · **Supabase** · **React.js** · **REST APIs** · **Express.js** · **Postman** · **AI Development**
+
+---
 
 <div align="center">
 
-<a href="https://github.com/abehainam5-blip/personal-portfolio">
-<img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+## GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=abehainam5-blip&show_icons=true&hide_border=true&bg_color=00000000&title_color=A970FF&icon_color=A970FF&text_color=888888&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abehainam5-blip&hide_border=true&background=00000000&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=888888&dates=888888" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abehainam5-blip&bg_color=00000000&color=A970FF&line=A970FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## Contribution Snake
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## Connect With Me
+
+<a href="https://www.linkedin.com/in/abeha-inam/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="42" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/abeha_inam/">
+<img src="https://skillicons.dev/icons?i=instagram" width="42" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/Abeha488151">
+<img src="https://skillicons.dev/icons?i=twitter" width="42" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/AbehaInam">
+<img src="https://skillicons.dev/icons?i=facebook" width="42" />
 </a>
 
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-### 🐍 Python
-
-↓
-
-### 🗄️ Database Fundamentals
-
-↓
-
-### MySQL • MongoDB • Supabase
-
-↓
-
-### 🌐 HTML • CSS • JavaScript
-
-↓
-
-### ⚛️ React.js
-
-↓
-
-### 🔌 REST APIs • Express.js • Postman
-
-↓
-
-### 🤖 AI & Advanced Software Development
-
-</div>
-
----
-
-# 🎯 My Developer Journey
-
-I'm continuously working on improving my programming skills, understanding software architecture, building real projects, and exploring the possibilities of Artificial Intelligence.
-
-> **Learn. Build. Create. Improve. Repeat. 🚀**
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abehainam5-blip&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=FFFFFF&rank_icon=github" width="48%"/>
-
-<img src="https://streak-stats.demolab.com?user=abehainam5-blip&theme=dark&hide_border=true&background=0D1117&ring=A970FF&fire=A970FF&currStreakLabel=A970FF" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abehainam5-blip&bg_color=0D1117&color=A970FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
+<br/><br/>
 
 <a href="https://github.com/abehainam5-blip">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-abehainam5--blip-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-# 💜 Let's Build Something Amazing
+### Building today. Learning every day. 🚀
 
-### AI • Software • Creativity • Innovation
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:3B176F,100:A970FF&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=gradient" width="100%"/>
 
 </div>
